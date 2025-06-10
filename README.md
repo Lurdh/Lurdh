@@ -6,7 +6,7 @@
 🛠️ Skilled in Incident, Change, Problem, Knowledge modules | Flow Designer | Workflow Editor | Service Portal | Now Mobile APP |BAU Tickets Handling |Report Management | Integrations
 📚 Currently learning HRSD, CMDB, and CSM to expand enterprise skills.
 
-🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/lourdhu-mary-b47a87225/) | [Portfolio](coming soon)
+🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/lourdhu-mary-b47a87225/) | [[Portfolio](https://github.com/Lurdh/servicenow-itsm-demo)
 
 > I believe in rebuilding myself, my skills, and even my falls.
 
